@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.about-picture {
+    background: url(./images/gu-bike.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1{
+    color: crimson;
+}
+
+.img-2 {
+    background: url(./images/img-1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
